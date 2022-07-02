@@ -615,7 +615,7 @@ color: var(--text-accent);
     
 }
 .project-item {
-    flex-basis: calc((100% - 90)/3);
+    flex-basis: calc((100% - 90px)/3);
    
     
 }
